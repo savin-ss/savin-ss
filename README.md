@@ -7,8 +7,6 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
-🔗 Connect with Me
-[(https://www.linkedin.com/in/savin-s-s/)]
 <h2 align="center">🚀 Savin S S — Shaping Tomorrow with AI & Innovation 🚀</h2>
 
 <p align="center">
