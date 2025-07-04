@@ -8,7 +8,7 @@
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savin-s-s/)
+[(https://www.linkedin.com/in/savin-s-s/)]
 <h2 align="center">🚀 Savin S S — Shaping Tomorrow with AI & Innovation 🚀</h2>
 
 <p align="center">
