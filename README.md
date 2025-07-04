@@ -1,36 +1,69 @@
-<h1 align="center">Hi 👋, I'm Savin S S</h1>
-<h3 align="center">🚀 AI/ML Intern | 🛡️ Cybersecurity Enthusiast | 💻 Full-Stack & Flutter Developer 📍 Thrissur, Kerala / Mangalore, Karnataka, India 📫 savinsrenu588@gmail.com | 📱 +91-8714827597 🔗 [GitHub](https://github.com/savin-ss) | [LinkedIn](https://www.linkedin.com/in/savin-ss)</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#4CAF50">Savin S S</span></h1>
+<h3 align="center">🚀 AI/ML Intern | 🛡️ Cybersecurity Enthusiast | 💻 Full-Stack & Flutter Developer</h3>
+<h4 align="center">📍 Thrissur, Kerala / Mangalore, Karnataka, India</h4>
+<h4 align="center">📫 savinsrenu588@gmail.com | 📱 +91-8714827597</h4>
+<h4 align="center">🔗 <a href="https://github.com/savin-ss">GitHub</a> | <a href="https://www.linkedin.com/in/savin-s-s/">LinkedIn</a></h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=savin-ss&label=Profile%20views&color=0e75b6&style=flat" alt="savin-ss" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savin-ss" alt="savin-ss" /></a> </p>
-
-- 🔭 I’m currently working on [ai-vulnerability-triage-system](https://github.com/savin-ss/ai-vulnerability-triage-system)
-
-- 🌱 I’m currently learning **DevSecOps 🔐 | NLP 🚀 | Advanced AI & ML frameworks - Courses on TensorFlow, HarvardX, IBM & AMII**
-
-- 👯 I’m looking to collaborate on [AI Vulnerability Triage System](https://github.com/savin-ss/ai-vulnerability-triage-system)
-
-- 🤝 I’m looking for help with **Devops**
-
-- 📝 I regularly write articles on [Coming Soon: AI Blog Series on Medium](Coming Soon: AI Blog Series on Medium)
-
-- 💬 Ask me about **React, Flutter, DevOps, Cybersecurity, AI Projects**
-
-- 📫 How to reach me **savinsrenu588@gmail.com**
-
-- ⚡ Fun fact **I love building AI systems that mimic human judgment 🧠💡**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/savin-s-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savin-s-s" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=savin-ss&label=Profile%20views&color=0e75b6&style=flat" alt="savin-ss" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=savin-ss&theme=onedark" alt="GitHub Trophy" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savin-ss&show_icons=true&locale=en&layout=compact" alt="savin-ss" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=savin-ss&show_icons=true&locale=en" alt="savin-ss" /></p>
+- 🔭 I’m currently working on: <a href="https://github.com/savin-ss/ai-vulnerability-triage-system">AI Vulnerability Triage System</a>
+- 🌱 Currently learning: **DevSecOps 🔐 | NLP 🚀 | Advanced AI/ML (TensorFlow, HarvardX, IBM, AMII)**
+- 👯 Open to collaborate on: <strong>AI-based security automation projects</strong>
+- 🤝 Looking for help with: **DevOps + Infrastructure Automation**
+- 📝 Writing Soon: *AI Blog Series on Medium (Coming Soon)*
+- 💬 Ask me about: **React, Flutter, DevOps, Cybersecurity, AI/ML**
+- 📫 Reach me at: <strong>savinsrenu588@gmail.com</strong>
+- ⚡ Fun fact: <em>I love building AI systems that mimic human judgment 🧠💡</em>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savin-ss&" alt="savin-ss" /></p>
+---
+
+<h3 align="left">🤝 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/savin-s-s" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savin-s-s" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=savin-ss&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=savin-ss&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savin-ss&" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- Optional: Add 4K slideshow (GitHub doesn't support 4K autoplay), you can use GIFs or link to a portfolio slideshow instead. -->
