@@ -11,7 +11,7 @@
 <h2 align="center">🚀 Savin S S — Shaping Tomorrow with AI & Innovation 🚀</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓%20M.Tech-Artificial%20Intelligence-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓%20B.Tech-Artificial%20Intelligence-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📍%20Location-P.A.%20College%20of%20Engineering,%20Mangalore-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💡%20Mission-AI%20for%20Good-orange?style=for-the-badge" />
 </p>
@@ -36,7 +36,6 @@
 <summary>📱 Alternative Viewing Options</summary>
 <br>
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@savintechhacks)
 [![Portfolio Video](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
 
 </details>
