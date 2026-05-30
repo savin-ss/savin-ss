@@ -277,22 +277,16 @@ Mission:
 
 ---
 
-# 📊 INTERACTIVE ANALYTICS ZONE
 
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=savin-ss&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
 
 # ⚙️ ULTRA TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,aws,docker,git,github,mysql,react,typescript,javascript,html,css,tailwind,nodejs,linux&theme=dark"/>
-
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,aws,git,github,mysql,vscode&theme=dark"/>
+<p align="center">
+Python, Machine Learning, Artificial Intelligence, TensorFlow, PyTorch, OpenCV, Computer Vision, Deep Learning, Data Science, SQL, Data Analytics, YOLO
+</p>
 <br><br>
 
 <img src="https://img.shields.io/badge/🤖_Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -322,6 +316,7 @@ Mission:
 > 🧠 “An Intelligent Indoor Plant Health Monitoring System Using Deep Learning and Computer Vision”
 
 </div>
+<div align="center">
 
 <table>
 <tr>
