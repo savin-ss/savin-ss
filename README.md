@@ -355,11 +355,7 @@ Python, Machine Learning, Artificial Intelligence, TensorFlow, PyTorch, OpenCV, 
 
 # 📊 GITHUB ANALYTICS
 
-<div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=savin-ss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=E8E8FF"/>
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savin-ss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E8E8FF"/>
 
 <br><br>
 
