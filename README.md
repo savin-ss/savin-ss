@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=SAVIN%20S%20S&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20Healthcare%20AI%20%7C%20Research&descAlignY=60&descSize=24"/>
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
 
 <br>
 
