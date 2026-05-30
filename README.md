@@ -4,22 +4,25 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=180&lines=🤖+AI%2FML+ENGINEER;🧠+COMPUTER+VISION+ARCHITECT;🏥+HEALTHCARE+AI+RESEARCHER;📊+DATA+ANALYTICS+ENGINEER;⚡+BUILDING+NEXT-GEN+INTELLIGENT+SYSTEMS"/>
+<img 
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=🤖+AI%2FML+ENGINEER;🧠+COMPUTER+VISION+ARCHITECT;🏥+HEALTHCARE+AI+RESEARCHER" 
+alt="Typing SVG" 
+/>
 
+<br>
+
+<img 
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=2500&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=true&width=900&lines=📊+DATA+ANALYTICS+ENGINEER;⚡+BUILDING+NEXT-GEN+INTELLIGENT+SYSTEMS" 
+alt="Typing SVG" 
+/>
+<br>
 <br><br>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1200&color=FF00FF&center=true&vCenter=true&width=1000&lines=⚡+Neural+Networks+Online;🚀+Deploying+AI+Into+Production;🧬+Engineering+Future+Healthcare+Systems;🌍+Open+for+Global+AI+Opportunities"/>
 
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=savin-ss&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/followers/savin-ss?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117"/>
-
 <img src="https://img.shields.io/github/stars/savin-ss?style=for-the-badge&logo=github&color=FF00FF&labelColor=0D1117"/>
-
 <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-success?style=for-the-badge&logo=rocket&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20ML%20%7C%20CV%20%7C%20DATA-blueviolet?style=for-the-badge&logo=openai"/>
 
 </div>
@@ -353,10 +356,23 @@ Python, Machine Learning, Artificial Intelligence, TensorFlow, PyTorch, OpenCV, 
 
 ---
 
+<div align="center">
+
 # 📊 GITHUB ANALYTICS
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=savin-ss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=E8E8FF"/>
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savin-ss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E8E8FF"/>
 
+<br><br>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=savin-ss&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF1493&currStreakNum=E8E8FF"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=savin-ss&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF1493"/>
+
+</div>
 <br><br>
 
 <img width="100%" src="https://streak-stats.demolab.com?user=savin-ss&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF1493&currStreakNum=E8E8FF"/>
