@@ -1,19 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=SAVIN%20S%20S&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20Healthcare%20AI%20%7C%20Research&descAlignY=60&descSize=24"/>
-
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=130&lines=AI%2FML+ENGINEER;COMPUTER+VISION+RESEARCHER;HEALTHCARE+AI+ARCHITECT;DATA+ANALYTICS+ENGINEER;BUILDING+INTELLIGENT+SYSTEMS" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=420&color=gradient&customColorList=6,12,20,24,30&text=SAVIN%20S%20S&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20AI%20ENGINEER%20•%20COMPUTER%20VISION%20•%20HEALTHCARE%20AI%20•%20RESEARCHER&descAlignY=57&descSize=28"/>
 
 <br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=180&lines=🤖+AI%2FML+ENGINEER;🧠+COMPUTER+VISION+ARCHITECT;🏥+HEALTHCARE+AI+RESEARCHER;📊+DATA+ANALYTICS+ENGINEER;⚡+BUILDING+NEXT-GEN+INTELLIGENT+SYSTEMS"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1200&color=FF00FF&center=true&vCenter=true&width=1000&lines=⚡+Neural+Networks+Online;🚀+Deploying+AI+Into+Production;🧬+Engineering+Future+Healthcare+Systems;🌍+Open+for+Global+AI+Opportunities"/>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=savin-ss&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/savin-ss?style=for-the-badge&color=00D9FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/followers/savin-ss?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/github/stars/savin-ss?style=for-the-badge&color=00D9FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/stars/savin-ss?style=for-the-badge&logo=github&color=FF00FF&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-success?style=for-the-badge&logo=rocket&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20ML%20%7C%20CV%20%7C%20DATA-blueviolet?style=for-the-badge&logo=openai"/>
 
 </div>
 
@@ -21,110 +28,184 @@
 
 <div align="center">
 
-# ⚡ AI SYSTEM STATUS ⚡
+# ⚡ ULTRA AI SYSTEM STATUS ⚡
+
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=🟢+ALL+NEURAL+SYSTEMS+ONLINE;🧠+EXPLAINABLE+AI+CONNECTED;🚀+PRODUCTION+PIPELINES+ACTIVE;🔐+SECURITY+AI+RUNNING;☁️+CLOUD+SYSTEMS+DEPLOYED"/>
+
+</div>
 
 ```diff
-+ Neural Systems Online
-+ Healthcare AI Initialized
-+ Computer Vision Pipelines Active
-+ Explainable AI Models Connected
-+ Security Analytics Running
-+ Deployment Status: Production Ready
++ 🤖 Neural Systems Online
++ 🏥 Healthcare AI Initialized
++ 👁️ Computer Vision Pipelines Active
++ 🧠 Explainable AI Models Connected
++ 🔐 Security Analytics Running
++ ☁️ Cloud Infrastructure Stable
++ 🚀 Deployment Status: Production Ready
++ 🌍 International Collaboration Enabled
 ```
-
-</div>
 
 ---
 
 <div align="center">
 
-> ### “Building production-grade AI systems focused on healthcare, computer vision, and intelligent analytics.”
-
-</div>
-
----
+# 🌌 DIGITAL AI UNIVERSE 🌌
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750337-6c2d3e2b-90f5-4c3b-8f5f-ec6c13e7f9f.gif"/>
 
-# 🌌 ABOUT ME
-
-<div align="center">
-
-|                   |                                                  |
-| ----------------- | ------------------------------------------------ |
-| 👨‍💻 Role        | AI/ML Engineer                                   |
-| 🧠 Specialization | Computer Vision • Healthcare AI • Explainable AI |
-| 🎓 Degree         | B.E Artificial Intelligence & Machine Learning   |
-| 📊 CGPA           | 8.55                                             |
-| 💼 Current Role   | Python with Data Science Intern @ PySpiders      |
-| 📍 Location       | Bengaluru, India                                 |
-| 🌍 Open To        | Remote • International Opportunities             |
-
 </div>
 
 ---
 
-# 🧠 CORE EXPERTISE
+# 🧬 ABOUT ME
 
 <div align="center">
-
-| DOMAIN              | STACK                           | LEVEL      |
-| ------------------- | ------------------------------- | ---------- |
-| 👁️ Computer Vision | OpenCV • YOLO • CNN • MediaPipe | ██████████ |
-| 🧠 Explainable AI   | SHAP • Grad-CAM • LIME          | █████████░ |
-| 🏥 Healthcare AI    | Diagnostics • Medical Imaging   | █████████░ |
-| 📊 Data Analytics   | SQL • Power BI • Tableau        | ████████░░ |
-| 🔐 Security AI      | Threat Analytics • ML Security  | ████████░░ |
-| ☁️ Cloud & DevOps   | AWS • Docker • CI/CD            | ███████░░░ |
-
-</div>
-
----
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/216655848-c4ee4dfd-6f2c-4d1c-b3b2-f8845f8a5c89.gif"/>
-
-# 🚀 FEATURED AI SYSTEMS
 
 <table>
 <tr>
 <td width="50%">
 
-## 👁️ LuminaDia
+## 👨‍💻 AI ENGINEER PROFILE
+
+```yaml
+Name: Savin S S
+Role: AI/ML Engineer
+Specialization:
+  - Computer Vision
+  - Explainable AI
+  - Healthcare AI
+  - Data Analytics
+  - NLP Systems
+
+Education:
+  Degree: B.E AIML
+  CGPA: 8.55
+
+Current Position:
+  Python + Data Science Intern
+  @ PySpiders Bengaluru
+
+Mission:
+  "Building scalable intelligent systems
+   for healthcare and automation"
+```
+
+</td>
+
+<td width="50%">
+
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF0cTF3NnNocTllN3VnN29xMnB4NmV6MDFmZG1hM2Q2Z2FqMDF6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# ⚡ AI EXPERTISE MATRIX
+
+<div align="center">
+
+| 🚀 DOMAIN | ⚙️ TECHNOLOGIES | 📈 LEVEL |
+|---|---|---|
+| 👁️ Computer Vision | OpenCV • YOLO • CNN • MediaPipe | ██████████ |
+| 🧠 Explainable AI | SHAP • Grad-CAM • LIME | █████████░ |
+| 🏥 Healthcare AI | Diagnostics • Medical Imaging | █████████░ |
+| 📊 Data Analytics | SQL • Power BI • Tableau | ████████░░ |
+| 🔐 Security AI | Threat Analytics • Automation | ████████░░ |
+| ☁️ Cloud & DevOps | AWS • Docker • CI/CD | ███████░░░ |
+| 🌐 Full Stack AI | React • TypeScript • APIs | ████████░░ |
+| 🤖 NLP Systems | Transformers • TensorFlow | ███████░░░ |
+
+</div>
+
+---
+
+<div align="center">
+
+# 🤖 AI MACHINE ECOSYSTEM 🤖
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216655848-c4ee4dfd-6f2c-4d1c-b3b2-f8845f8a5c89.gif"/>
+
+</div>
+
+---
+
+# 🚀 FEATURED AI PROJECTS
+
+<div align="center">
+
+## 🌟 NEXT-GEN INTELLIGENT SYSTEMS 🌟
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+# 👁️ LuminaDia AI
 
 <img src="https://raw.githubusercontent.com/savin-ss/LuminaDia/main/assets/home.png"/>
 
-### XAI Eye Disease Detection
+<div align="center">
 
-| Category | Healthcare AI                 |
-| -------- | ----------------------------- |
-| Status   | ✅ Live                        |
-| Stack    | TensorFlow • CNN • OpenCV     |
-| Features | Grad-CAM • SHAP • Diagnostics |
+### 🏥 XAI Eye Disease Detection Platform
 
-### 🔗 Links
+</div>
 
-* [Repository](https://github.com/savin-ss/LuminaDia)
-* [Live Demo](https://us9oehm5frd1vbs7.public.blob.vercel-storage.com/LuminaDia%20_%20XAI-Powered%20Diabetes%20Detection%20-%20Google%20Chrome%202026-05-30%2014-33-09.mp4)
+| 🔥 Category | Healthcare AI |
+|---|---|
+| 🚀 Status | ✅ Production Ready |
+| ⚙️ Stack | TensorFlow • CNN • OpenCV |
+| 🧠 AI Features | Grad-CAM • SHAP • Diagnostics |
+| 🌍 Focus | Medical Intelligence |
+
+<div align="center">
+
+### 🔗 QUICK ACCESS
+
+<a href="https://github.com/savin-ss/LuminaDia">
+<img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://us9oehm5frd1vbs7.public.blob.vercel-storage.com/LuminaDia%20_%20XAI-Powered%20Diabetes%20Detection%20-%20Google%20Chrome%202026-05-30%2014-33-09.mp4">
+<img src="https://img.shields.io/badge/🎬_Live_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 
 <td width="50%">
 
-## 👶 ADHD Detection AI
+# 👶 ADHD Detection AI
 
 <img src="https://raw.githubusercontent.com/savin-ss/AI-Based-ADHD-Detection-and-Classification-System/refs/heads/main/assests/home%20page.png"/>
 
-### Behavioral Analysis System
+<div align="center">
 
-| Category | Computer Vision                     |
-| -------- | ----------------------------------- |
-| Status   | ✅ Live                              |
-| Stack    | OpenCV • ML • Eye Tracking          |
-| Features | Attention Analysis • Classification |
+### 🧠 Behavioral Attention Intelligence System
 
-### 🔗 Links
+</div>
 
-* [Repository](https://github.com/savin-ss/AI-Based-ADHD-Detection-and-Classification-System)
+| 🔥 Category | Computer Vision |
+|---|---|
+| 🚀 Status | ✅ AI Active |
+| ⚙️ Stack | OpenCV • ML • Eye Tracking |
+| 👁️ Features | Attention Analysis |
+| 🧬 AI Engine | Classification Models |
+
+<div align="center">
+
+### 🔗 QUICK ACCESS
+
+<a href="https://github.com/savin-ss/AI-Based-ADHD-Detection-and-Classification-System">
+<img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 </tr>
@@ -132,81 +213,63 @@
 <tr>
 <td width="50%">
 
-## 🔐 Security AI System
+# 🔐 Security AI System
 
 <img src="https://raw.githubusercontent.com/savin-ss/ai-vulnerability-triage-system/555f830743569df80ca1760dc58c49fdb8479354/assests/login-page.png"/>
 
-### Vulnerability Intelligence Platform
+<div align="center">
 
-| Category | AI Security                   |
-| -------- | ----------------------------- |
-| Status   | ✅ Running                     |
-| Stack    | TypeScript • AI • Security    |
-| Features | Threat Analytics • Automation |
+### 🛡️ AI Vulnerability Intelligence Platform
 
-### 🔗 Links
+</div>
 
-* [Repository](https://github.com/savin-ss/ai-vulnerability-triage-system)
+| 🔥 Category | AI Security |
+|---|---|
+| 🚀 Status | ✅ Running |
+| ⚙️ Stack | TypeScript • AI • Security |
+| 🧠 Features | Threat Analytics |
+| 🤖 Automation | Vulnerability Detection |
+
+<div align="center">
+
+### 🔗 QUICK ACCESS
+
+<a href="https://github.com/savin-ss/ai-vulnerability-triage-system">
+<img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 
 <td width="50%">
 
-## 🌿 Smart Plant Care AI
+# 🌿 Smart Plant Care AI
 
 <img src="https://raw.githubusercontent.com/savin-ss/Smart-Indoort-Plant-Care-System/refs/heads/main/assests/home%20page.png"/>
 
-### IoT + AI Monitoring
+<div align="center">
 
-| Category | IoT + AI                  |
-| -------- | ------------------------- |
-| Status   | ✅ Active                  |
-| Stack    | Deep Learning • Twilio    |
-| Features | Plant Health • SMS Alerts |
+### 🌱 IoT + Deep Learning Monitoring System
 
-### 🔗 Links
+</div>
 
-* [Repository](https://github.com/savin-ss/Smart-Indoort-Plant-Care-System)
+| 🔥 Category | IoT + AI |
+|---|---|
+| 🚀 Status | ✅ Active |
+| ⚙️ Stack | Deep Learning • Twilio |
+| 📡 Features | SMS Alerts |
+| 🌿 Intelligence | Plant Health Analysis |
 
-</td>
-</tr>
+<div align="center">
 
-<tr>
-<td width="50%">
+### 🔗 QUICK ACCESS
 
-## 📝 NLP Essay Scorer
+<a href="https://github.com/savin-ss/Smart-Indoort-Plant-Care-System">
+<img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://raw.githubusercontent.com/savin-ss/nlp-essay-scoring/8441d2ea878729a09e681fff78ee838a3d524eca/assests/Screenshot%202025-06-07%20200125.png"/>
-
-### Semantic Intelligence Engine
-
-| Category | NLP                                  |
-| -------- | ------------------------------------ |
-| Status   | ✅ Online                             |
-| Stack    | NLP • TensorFlow                     |
-| Features | Essay Evaluation • Semantic Analysis |
-
-### 🔗 Links
-
-* [Repository](https://github.com/savin-ss/nlp-essay-scoring)
-
-</td>
-
-<td width="50%">
-
-## 📊 Analytics Suite
-
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="80%"/>
-
-### Business Intelligence Platform
-
-| Category | Data Analytics           |
-| -------- | ------------------------ |
-| Status   | 🚧 In Development        |
-| Stack    | Power BI • SQL • Python  |
-| Features | Dashboards • Forecasting |
-
-### 🚀 Coming Soon
+</div>
 
 </td>
 </tr>
@@ -214,15 +277,49 @@
 
 ---
 
-# 📖 RESEARCH & PUBLICATIONS
+# 📊 INTERACTIVE ANALYTICS ZONE
 
 <div align="center">
 
-## 🏆 IEEE DISCOVER 2025
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=savin-ss&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
-### Published International Research
+</div>
 
-> “An Intelligent Indoor Plant Health Monitoring System Using Deep Learning and Computer Vision”
+---
+
+# ⚙️ ULTRA TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,aws,docker,git,github,mysql,react,typescript,javascript,html,css,tailwind,nodejs,linux&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🤖_Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/☁️_Cloud_Computing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/📊_Data_Analytics-FF6F00?style=for-the-badge&logo=powerbi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/🧠_Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+
+<img src="https://img.shields.io/badge/👁️_Computer_Vision-0A66C2?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+</div>
+
+---
+
+# 🏆 RESEARCH & PUBLICATIONS
+
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216658130-43f6d0c9-dfd3-4d1f-a8c4-d9d9312c3f71.gif"/>
+
+## 📖 IEEE DISCOVER 2025
+
+### 🌍 INTERNATIONAL RESEARCH PUBLICATION
+
+> 🧠 “An Intelligent Indoor Plant Health Monitoring System Using Deep Learning and Computer Vision”
 
 </div>
 
@@ -232,141 +329,50 @@
 
 ### 🔬 Research Domains
 
-* Deep Learning
-* Computer Vision
-* IoT Systems
-* Healthcare Intelligence
+- 🤖 Deep Learning
+- 👁️ Computer Vision
+- 🌱 IoT Systems
+- 🏥 Healthcare Intelligence
+- 📊 Predictive Analytics
+- 🧠 Explainable AI
 
 </td>
 
 <td width="50%">
 
-### 🔗 Publications
+### 🔗 Publication Links
 
-* [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11258976)
-* [ResearchGate](https://www.researchgate.net/publication/398260566_An_Intelligent_Indoor_Plant_Health_Monitoring_System_Using_Deep_Learning_and_Computer_Vision)
+<a href="https://ieeexplore.ieee.org/abstract/document/11258976">
+<img src="https://img.shields.io/badge/📖_IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://www.researchgate.net/publication/398260566_An_Intelligent_Indoor_Plant_Health_Monitoring_System_Using_Deep_Learning_and_Computer_Vision">
+<img src="https://img.shields.io/badge/🔬_ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 </table>
 
 ---
-
-# 💼 EXPERIENCE
-
-<div align="center">
-
-## 🚀 Python with Data Science Intern — PySpiders Bengaluru
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### Responsibilities
-
-* Exploratory Data Analysis
-* SQL Engineering
-* Dashboard Development
-* Predictive Modeling
-* ML Classification Pipelines
-
-</td>
-
-<td width="50%">
-
-### Achievements
-
-```diff
-+ Built Production BI Dashboards
-+ Implemented ML Pipelines
-+ Automated Data Workflows
-+ Optimized SQL Queries
-```
-
-</td>
-</tr>
-</table>
-
----
-
-# ⚙️ TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,aws,docker,git,github,mysql,react,typescript,javascript,html,css&theme=dark"/>
-
-</div>
-
----
-
-# 🏅 CERTIFICATIONS
-
-<div align="center">
-
-| Certification                     | Organization    |
-| --------------------------------- | --------------- |
-| AWS Cloud Solutions Architect     | AWS             |
-| IBM Machine Learning Professional | IBM             |
-| IBM DevOps & Software Engineering | IBM             |
-| Google AI Essentials              | Google          |
-| Google IT Support                 | Google          |
-| NLP in TensorFlow                 | DeepLearning.AI |
-
-</div>
-
----
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/216658130-43f6d0c9-dfd3-4d1f-a8c4-d9d9312c3f71.gif"/>
 
 # 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=savin-ss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=E8E8FF" height="190"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=savin-ss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=E8E8FF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savin-ss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E8E8FF" height="190"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savin-ss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E8E8FF"/>
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=savin-ss&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF1493&currStreakNum=E8E8FF" width="100%"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=savin-ss&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF1493&currStreakNum=E8E8FF"/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=savin-ss&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF1493" width="100%"/>
-
-</div>
-
----
-
-# 🌟 IMPACT METRICS
-
-<div align="center">
-
-| 🚀 Projects        | 📖 Publications | 🏅 Certifications | 🎓 CGPA |
-| ------------------ | --------------- | ----------------- | ------- |
-| 5+ Live AI Systems | IEEE Research   | 6+ Verified       | 8.55    |
-
-| ☁️ Cloud & DevOps | 📊 Analytics   | 🧠 AI Research | 🌍 Opportunities |
-| ----------------- | -------------- | -------------- | ---------------- |
-| AWS • Docker      | Power BI • SQL | XAI • CV • NLP | International    |
-
-</div>
-
----
-
-# 🧬 CURRENT TRAJECTORY
-
-<div align="center">
-
-```diff
-+ Building scalable AI systems
-+ Advancing Explainable AI research
-+ Developing healthcare intelligence platforms
-+ Engineering production ML pipelines
-+ Expanding cloud & MLOps expertise
-```
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=savin-ss&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF1493"/>
 
 </div>
 
@@ -376,19 +382,29 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=0D1117)](https://linkedin.com/in/savin-s-s)
+<a href="https://linkedin.com/in/savin-s-s">
+<img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-PORTFOLIO-181717?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=0D1117)](https://github.com/savin-ss)
+<a href="https://github.com/savin-ss">
+<img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=0D1117)](mailto:savinsreenu588@gmail.com)
+<a href="mailto:savinsreenu588@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![Calendly](https://img.shields.io/badge/CALENDLY-SCHEDULE-4285F4?style=for-the-badge\&logo=google-calendar\&logoColor=white\&labelColor=0D1117)](https://calendly.com/savinsreenu588)
+<a href="https://calendly.com/savinsreenu588">
+<img src="https://img.shields.io/badge/📅_Calendly-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
+
+# 🐍 CONTRIBUTION SNAKE
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -398,10 +414,12 @@
 
 <div align="center">
 
-# 🚀 BUILDING THE FUTURE WITH AI
+# 🚀 BUILDING THE FUTURE WITH AI 🚀
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=THANKS%20FOR%20VISITING&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=70&color=gradient&customColorList=12,20,24,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&text=THANKS%20FOR%20VISITING&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=65&color=gradient&customColorList=6,12,20,24,30"/>
 
-### ⭐ AI • RESEARCH • INNOVATION • IMPACT ⭐
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⭐+AI+•+RESEARCH+•+INNOVATION+•+IMPACT+⭐;🤖+Engineering+Intelligent+Futures;🌍+Creating+Global+AI+Solutions"/>
 
 </div>
